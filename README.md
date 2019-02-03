@@ -1,6 +1,6 @@
 # Smart-Irrigation-Management-System
 
-Idea - The agricultural field is divided into small segments for each segment we have a local node. The central server is located at a distant location. Local nodes collect soil data such as soil moisture and stagnant water level through soil moisture sensors and stagnant water level sensors respectively and send to the central server using any appropriate medium like email. The central server analyzes the data and sends back instructions to irrigate with the required amount of water. Now coming back to the field, motors start and irrigation is performed. Solar Panels can be used to supply electricity to local nodes.
+Idea - The agricultural land is divided into small segments and for each segment, we have a local node. The central server is located at a distant location. Local nodes collect soil data such as soil moisture and stagnant water level through soil moisture sensors and stagnant water level sensors respectively and send to the central server using any appropriate medium like email. The central server analyzes the data and sends back instructions to irrigate with the required amount of water. Now coming back to the field, motors start and irrigation is performed. Solar Panels can be used to supply electricity to local nodes.
 
 Prototype:-
 
