@@ -3,7 +3,7 @@ Idea - The agricultural land is divided into small segments and for each segment
 
 Prototype:-
 
-We developed a basic prototype using Arduino Uno and Raspberry Pi 3 Model B+. Arduino Uno acted as a local node and Pi as the central server. Soil moisture sensor and DC water motor were also used. Soil moisture data were collected in Arduino and were being sent to the Pi and then power to the water motor(which was connected to the local node) was provided depending on the instructions from the Pi to perform the irrigation. Serial communication was established for communication in between the Arduino and Raspberry Pi using PyFirmata library file in Arduino Ide and Raspberry Pi's operations were coded in Python Language.
+We developed a basic prototype using Arduino Uno and Raspberry Pi 3 Model B+. Arduino Uno acted as a local node and Pi as the central server. Soil moisture sensor and DC water motor were also used. Soil moisture data was collected in Arduino and was sent to the Pi and then power to the water motor(which was connected to the local node) was provided depending on the instructions from the Pi to perform the irrigation. Serial communication was established for communication in between the Arduino and Raspberry Pi using PyFirmata library file in Arduino Ide. Raspberry Pi's operations were coded in Python Language.
 
 
 Implementation steps :-
